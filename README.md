@@ -3,7 +3,7 @@
 📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 🛺 
 
 Currently working on Web Developer (partime) at content creator blog named "Miraii"
-![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/mI%20logo.png)<br>
+![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Miraii%20Logo%2030.png)<br>
 Currently learning Font-end & Back-end Developer
  
  #### Contact Me 
