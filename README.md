@@ -3,9 +3,9 @@
 
 
 
-### __📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png)
+### __📣 I'm Nut, Who is a rookie 👶 Web Developer from Bangkok, Thiland__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png)
 
-**Currently working** : Web Developer (partime) at content creator blog named "Miraii"
+**Currently working** : Web Developer (partime) at content creator blog named **"Miraii"**
 ![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/mI%20logo.png)<br>
 **Currently learning** : Font-end & Back-end Developer and all about web Developer
  
@@ -14,6 +14,8 @@
 - CSS3
 - Javascript
 - .NET Core MVC
+
+
 
 **Contact Me On :** 
 [![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
