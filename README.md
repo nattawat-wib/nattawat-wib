@@ -2,16 +2,15 @@
 
 📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 🛺 
 
- currently working on Web Developer (partime) at content creator named "Miraii" <br>
- currently learning Font-end & Back-end Developer
+Currently working on Web Developer (partime) at content creator blog named "Miraii"
+![Miraii Logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Miraii%20Logo.png)<br>
+Currently learning Font-end & Back-end Developer
  
  #### Contact Me 
-📫 Email : nattwat.wib@gmail.com 📧
+📫 Email : nattawat.wib@gmail.com 📧
 
+---
 ![MiraiiLogo.png](https://github.com/nattawat-wib/nattawat-wib/blob/master/Gudetama.png)
-
-
-
 
 <!--
 **nattawat-wib/nattawat-wib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
