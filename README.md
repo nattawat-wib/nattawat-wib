@@ -3,10 +3,10 @@
 
 
 
-### __📣 I'm Nut, Who is a rookie 👶 Web Developer from Bangkok, Thiland__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png)
+### __📣 I'm Nut, Who is a rookie 👶 Web Developer from Bangkok, Thiland__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png)
 
 **Currently working** : Web Developer (partime) at content creator blog named **"Miraii"**
-![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/mI%20logo.png)<br>
+![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Miraii%20Logo%2030.png)<br>
 **Currently learning** : Font-end & Back-end Developer and all about web Developer
  
  👨‍💻 **My Skill** 💻 <br>
@@ -18,9 +18,9 @@
 
 
 **Contact Me On :** 
-[![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
-[![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Linkin%20icon%2027.jpg)](https://www.linkedin.com/in/nattawat-wiboonkosol-0774581b2/)
-[![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Instagram%20Icon%2027.png)](https://www.instagram.com/ella_nuttt/)
+[![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
+[![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Instagram%20Icon%2027.png)](https://www.linkedin.com/in/nattawat-wiboonkosol-0774581b2/)
+[![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Linkin%20icon%2027.jpg)](https://www.instagram.com/ella_nuttt/)
 <br>
 or 📫 Email : nattawat.wib@gmail.com <br>
 
