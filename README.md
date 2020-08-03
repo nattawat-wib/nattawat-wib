@@ -1,12 +1,20 @@
 # ✌️ Hello World!!!,  Welcome to my Github profile ✌️
 
-📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 🛺 
+📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 
+![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png) 🛺 <br>
 
 Currently working on Web Developer (partime) at content creator blog named "Miraii"
-![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Miraii%20Logo%2030.png)<br>
+![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/mI%20logo.png)<br>
 Currently learning Font-end & Back-end Developer
  
- #### Contact Me 
+ 👨‍💻 **My Skill** 💻 <br>
+- HTML5
+- CSS3
+- Javascript
+- .NET Core MVC
+
+
+**Contact Me** <br>
 📫 Email : nattawat.wib@gmail.com 📧
 
 ---
