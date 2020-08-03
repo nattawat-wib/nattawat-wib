@@ -1,5 +1,11 @@
-#✌️ Hello World ✌️ 
-  I'm Nattawat 
+# ✌️ Hello World!!!,  Welcome to my Github profile ✌️
+
+📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 🛺
+
+ currently working on Web Developer (partime) at content creator named "Miraii" <br>
+ currently learning Font-end & Back-end Developer
+ 
+
 
 <!--
 **nattawat-wib/nattawat-wib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
