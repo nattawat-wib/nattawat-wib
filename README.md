@@ -1,7 +1,7 @@
 # ✌️ Hello World!!!,  Welcome to my Github profile ✌️
 
-📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland 
-![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png) 🛺 <br>
+__📣 I'm Nut,🌱 Who is a rookie Web Developer from Bangkok, Thiland__
+![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/Thai%20FLAG%2023.png) <br>
 
 Currently working on Web Developer (partime) at content creator blog named "Miraii"
 ![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/mI%20logo.png)<br>
