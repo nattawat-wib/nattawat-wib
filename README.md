@@ -15,12 +15,12 @@
 - Javascript
 - .NET Core MVC
 
-**Contact Me On** 
-[![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Fcebook%20Logo%2040.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
-[![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Linkin%20icon%2040.jpg)](https://www.linkedin.com/in/nattawat-wiboonkosol-0774581b2/)
-[![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Instagram%20Icon%2040.png)](https://www.instagram.com/ella_nuttt/)
+**Contact Me On :** 
+[![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Fcebook%20Logo%2035.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
+[![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Linkin%20icon%2035.jpg)](https://www.linkedin.com/in/nattawat-wiboonkosol-0774581b2/)
+[![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/Instagram%20Icon%2035.png)](https://www.instagram.com/ella_nuttt/)
 <br>
-OR 📫 Email : nattawat.wib@gmail.com <br>
+or 📫 Email : nattawat.wib@gmail.com <br>
 
 
 
