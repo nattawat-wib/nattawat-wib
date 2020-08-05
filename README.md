@@ -7,7 +7,7 @@
 
 **Currently working** : Web Developer at content creator blog named **"Miraii"**
 ![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Miraii%20Logo%2030.png)<br>
-**Currently learning** : Font-end & Back-end Developer and all about web Developer
+**Currently learning** : Font-end & Back-end Developer and all about web developer
  
  👨‍💻 **My Skill** 💻 <br>
 - HTML5
