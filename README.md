@@ -1,7 +1,7 @@
 # ✌️ Hello World!!!,  Welcome to my Github profile ✌️ 
   
   
- 
+  
  
 ### __📣 I'm Nut, who is a rookie 👶 Web Developer from Bangkok, Thiland__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png)
 
@@ -22,13 +22,13 @@
 [![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Linkin%20icon%2027.jpg)](https://www.instagram.com/ella_nuttt/)
 <br>
 or 📫 Email : nattawat.wib@gmail.com <br>
-
-
+ 
+ 
 
 ---
 ![footer](https://github.com/nattawat-wib/nattawat-wib/blob/master/footer%20img.png)
- 
-<!--
+  
+<!-- 
 **nattawat-wib/nattawat-wib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
