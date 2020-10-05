@@ -13,7 +13,7 @@
 - HTML5 
 - CSS3
 - Javascript
-- .NET Core MVC
+- .NET Core MVC  
  
 
 **Contact Me On :** 
