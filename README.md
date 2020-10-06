@@ -12,7 +12,7 @@
  👨‍💻 **My Skill** 💻 <br>  
 - HTML5 
 - CSS3 
-- Javascript
+- JavaScript
 - .NET Core MVC  
  
 
