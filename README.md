@@ -21,7 +21,7 @@
 [![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Instagram%20Icon%2027.png)](https://www.linkedin.com/in/nattawat-wiboonkosol-0774581b2/)
 [![IG logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Linkin%20icon%2027.jpg)](https://www.instagram.com/ella_nuttt/)
 <br>
-or 📫 Email : nattawat.wib@gmail.com <br>
+or 📫 Email : nattawat.wib@gmail.com <br> 
   
   
   
