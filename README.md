@@ -10,7 +10,7 @@
 **Currently learning** : Font-end & Back-end Developer and all about web developer 
   
  👨‍💻 **My Skill** 💻 <br>      
-- HTML5    
+- HTML5     
 - CSS3   
 - JavaScript 
 - .NET Core MVC    
