@@ -11,9 +11,13 @@
     
  👨‍💻 **My Skill** 💻 <br>         
 - HTML5     
-- CSS3    
-- JavaScript  
-- .NET Core MVC     
+- CSS3
+- JavaScript
+- .NET Core MVC
+- jQuery
+- React
+- SQL
+- Github
  
 
 **Contact Me On :** 
