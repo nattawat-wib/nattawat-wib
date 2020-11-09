@@ -17,8 +17,6 @@
 - jQuery
 - React
 - SQL
-- Github
- 
 
 **Contact Me On :** 
 [![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
