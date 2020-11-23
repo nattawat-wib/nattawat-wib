@@ -13,7 +13,7 @@
 - HTML5     
 - CSS3
 - JavaScript
-- .NET Core
+- .NET Core 
 - jQuery
 - React
 - SQL
