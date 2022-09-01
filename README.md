@@ -3,20 +3,19 @@
      
        
      
-### __📣 I'm Nut, who is a rookie 👶 Web Developer from Bangkok, Thailand__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png) 
+### __📣 I'm Nut, who is a Frontend Developer from Bangkok, Thailand__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png) 
   
-**Currently working** : Web Developer at content blog named **"Miraii"** 
-![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Miraii%20Logo%2030.png)<br>   
-**Currently learning** : Font-end & Back-end Developer and all about web developer  
+**Currently working** : Frontend Developer in software house company.
+![mi logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Miraii%20Logo%2030.png)<br>
+**Currently learning** : Frontend & Backend and all about web developer.
     
  👨‍💻 **My Skill** 💻 <br>         
-- HTML5     
+- HTML5
 - CSS3
 - JavaScript
-- .NET Core 
-- jQuery
 - React
-- SQL
+- jQuery
+- NodeJS
 
 **Contact Me On :** 
 [![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
