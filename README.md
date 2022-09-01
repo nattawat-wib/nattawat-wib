@@ -5,10 +5,10 @@
      
 ### __📣 I'm Nut, who is a Frontend Developer from Bangkok, Thailand__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png) 
   
-**Currently working** : Frontend Developer in software house company.
+**Currently working** : Frontend Developer in software house company
 <br>
-**Currently learning** : Frontend & Backend and all about web developer.
-    
+**Currently learning** : Frontend & Backend and all about web developer
+   
  👨‍💻 **My Skill** 💻 <br>         
 - HTML5
 - CSS3
