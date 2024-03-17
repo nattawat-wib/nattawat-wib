@@ -6,7 +6,7 @@
 <br>
 **Currently learning** : all about web development and system analyst
 
-### 👨‍💻 My Skill and Tools 💻
+### 👨‍💻 Skills and Tools 💻
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
