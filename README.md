@@ -25,17 +25,6 @@
 
 <br />
 
-## Publications
-
-I also published & shared my knowledge to another platform as well
-
-- [Medium](https://medium.com/@tpbabparn)
-
-[![Thanaphoom Babparn Medium](https://github-readme-medium.vercel.app/?username=nattawat-wib)](https://medium.com/@tpbabparn)
-
-<br />
-
-
 **Contact Me On :** 
 [![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
 [![LinkIn logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Instagram%20Icon%2027.png)](https://www.instagram.com/ella_nuttt/)
