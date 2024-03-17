@@ -31,7 +31,7 @@ I also published & shared my knowledge to another platform as well
 
 - [Medium](https://medium.com/@tpbabparn)
 
-[![Thanaphoom Babparn Medium](https://github-readme-medium.vercel.app/?username=tpbabparn)](https://medium.com/@tpbabparn)
+[![Thanaphoom Babparn Medium](https://github-readme-medium.vercel.app/?username=nattawat-wib)](https://medium.com/@tpbabparn)
 
 <br />
 
