@@ -19,9 +19,9 @@
 
 ## My Github Stats
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=nattawat-wib&show_icons=true&theme=algolia)](https://github.com/marttp)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=nattawat-wib&show_icons=true&theme=algolia)](https://github.com/nattawat-wib)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattawat-wib&layout=compact&theme=algolia)](https://github.com/marttp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattawat-wib&layout=compact&theme=algolia)](https://github.com/nattawat-wib)
 
 <br />
 
