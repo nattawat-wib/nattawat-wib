@@ -1,13 +1,13 @@
-# ✌️ Hello World!!!,  Welcome to my Github profile ✌️ 
+# ✌️ Hello World!,  Welcome to my Github profile ✌️ 
     
      
        
      
-### __📣 I'm Nut, who is a Frontend Developer from Bangkok, Thailand__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png) 
+### __📣 I'm Nut, who is a Full Stack Developer from Bangkok, Thailand__ ![thai flag 23](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Thai%20FLAG%2023.png) 
   
-**Currently working** : Frontend Developer in software house company
+**Currently working** : Backend Developer at LBS consultant
 <br>
-**Currently learning** : Frontend & Backend and all about web developer
+**Currently learning** : Web development
    
  👨‍💻 **My Skill** 💻 <br>         
 - HTML5
@@ -16,6 +16,25 @@
 - React
 - jQuery
 - NodeJS
+
+## My Github Stats
+
+[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)](https://github.com/marttp)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)](https://github.com/marttp)
+
+<br />
+
+## Publications
+
+I also published & shared my knowledge to another platform as well
+
+- [Medium](https://medium.com/@tpbabparn)
+
+[![Thanaphoom Babparn Medium](https://github-readme-medium.vercel.app/?username=tpbabparn)](https://medium.com/@tpbabparn)
+
+<br />
+
 
 **Contact Me On :** 
 [![Fcebook logo](https://github.com/nattawat-wib/nattawat-wib/blob/master/LOGO/Fcebook%20Logo%2027.jpg)](https://www.facebook.com/nattawat.viboonkosol/)
